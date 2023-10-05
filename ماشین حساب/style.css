@@ -1,4 +1,3 @@
-
 html{
 
     box-sizing: border-box;
@@ -98,5 +97,14 @@ body{
     flex-basis: 73%;
     border-radius: 16px;
     border: none;
-    font-size: 30px;
+    font-size: 30px
+}
+
+
+.triple:hover{
+    background-color: inherit;
+}
+
+.triple:active{
+    background-color: #ffef78;
 }
